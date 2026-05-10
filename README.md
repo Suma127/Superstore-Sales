@@ -72,7 +72,7 @@ Calculated shipping duration using order date and ship date.
 
 ---
 ## Dashboard Screenshots
-<img width="1882" height="1032" alt="image" src="https://github.com/user-attachments/assets/ed08875e-b2e5-4bba-943b-dcaf8dca4878" />
+<img width="1897" height="1027" alt="image" src="https://github.com/user-attachments/assets/1d4fdf93-620f-4285-9f4e-168f99f5daf8" />
 <img width="1223" height="440" alt="Top 10 Products by Sales" src="https://github.com/user-attachments/assets/c9765da4-115a-4d2e-8eff-9bb740418379" />
 <img width="1223" height="440" alt="Monthly Sales Trend" src="https://github.com/user-attachments/assets/55f2ec94-f65c-4000-91f1-6fd1239c9aa8" />
 <img width="606" height="257" alt="pie" src="https://github.com/user-attachments/assets/5721d0b7-effc-44a1-934e-d6e581c93969" />
